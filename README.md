@@ -1,5 +1,3 @@
-an easy way to write React.PropTypes.oneOfType
-
 # Install
 ```
 npm install one-of-type
